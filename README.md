@@ -13,10 +13,11 @@ The development of MDL_lib is led by Jorge Luiz Franco. We appreciate your suppo
 If you use MDL_lib in your research or project, please include the following citation:
 
 ```plaintext
-@article{franco_year,
-  author  = {Franco, Jorge Luiz},
-  title   = {MDL_lib: A Joint Learning Framework for Marginal Probability Models},
-  year    = {2022},
+@misc{franco_year,
+  author       = {Franco, Jorge Luiz},
+  title        = {{MDL\_lib: A Joint Learning Framework for Marginal Probability Models}},
+  howpublished = {\url{https://github.com/yourusername/MDL_lib}},
+  year         = {year}
 }
 
 ```
