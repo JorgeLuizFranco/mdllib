@@ -15,7 +15,7 @@ If you use MDL_lib in your research or project, please include the following cit
 ```plaintext
 @misc{
   author       = {Franco, Jorge Luiz},
-  title        = {{MDL\_lib: A Joint Learning Framework for Marginal Probability Models}},
+  title        = {{MDL_lib: A Joint Learning Framework for Marginal Probability Models}},
   howpublished = {\url{https://github.com/yourusername/MDL_lib}},
   year         = {year}
 }
