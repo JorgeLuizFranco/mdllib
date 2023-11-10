@@ -16,12 +16,7 @@ If you use MDL_lib in your research or project, please include the following cit
 @article{franco_year,
   author  = {Franco, Jorge Luiz},
   title   = {MDL_lib: A Joint Learning Framework for Marginal Probability Models},
-  journal = {Journal of Open Source Software},
-  year    = {year},
-  volume  = {volume},
-  number  = {number},
-  pages   = {page-range},
-  doi     = {your-doi-number},
+  year    = {2022},
 }
 
 ```
